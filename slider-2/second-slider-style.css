@@ -1,0 +1,47 @@
+.second-slider {
+    display: flex;
+    gap: 70px;
+}
+
+.second-slider-text {
+    font-size: 34px;
+    font-weight: bold;
+    color: #3F8DCB;
+    text-align: center;
+    margin-bottom: 53px;
+}
+
+.second-slider-image img {
+    width: 253px;
+    height: 246px;
+}
+
+.second-slider-content {
+    display: flex;
+    width: 215px;
+    flex-direction: column;
+}
+
+.second-slider-item {
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider-main-text {
+    color: #0F348C;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 134.34%;
+}
+
+.icon {
+    width: 25px;
+}
+
+.slider-payment {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
